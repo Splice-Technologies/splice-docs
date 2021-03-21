@@ -26,7 +26,7 @@ Before contributing to a repository within this organization please be mindful a
 18. Delete your branch from your local repository (good practice)
 19. Synchronize your fork with the project repository
 
-![Congratulations](https://memestatic1.fjcdn.com/comments/Login+to+view+this+comment+_19e983de3f965e737197ac8c44b2ba40.jpg)
+![Congratulations](assets/images/congratulations.jpg)
 
 ## Useful References
 
